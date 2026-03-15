@@ -1,3 +1,0 @@
-# type
-
-Tags: default password

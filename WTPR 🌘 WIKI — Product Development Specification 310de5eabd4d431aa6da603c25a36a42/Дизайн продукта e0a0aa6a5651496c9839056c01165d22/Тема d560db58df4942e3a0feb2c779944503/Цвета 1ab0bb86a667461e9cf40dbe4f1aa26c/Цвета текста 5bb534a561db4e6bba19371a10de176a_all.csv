@@ -1,9 +1,0 @@
-﻿Название,Зависимость,Описание
-color-typo-brand,color-base-project,Цвет брендового текста
-color-typo-primary,color-base-base,Цвет основного текста
-color-typo-secondary,color-base-base,Цвет второстепенного текста
-color-typo-ghost,color-base-base,Цвет дополнительного текста
-color-typo-success,color-base-success,Цвет текста успеха
-" color-typo-warning",color-base-warning,Цвет текста предупреждения
-color-typo-alert,color-base-alert,Цвет текста ошибки
-color-typo-link,color-base-path,Цвета ссылок

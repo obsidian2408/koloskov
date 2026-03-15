@@ -1,8 +1,0 @@
-﻿Название,Значения,Описание
-size,xs s m l xl 2xl 3xl 4xl 5xl,Размер
-view,brand ghost link  primary secondary success warning alert normal,Вид отображения
-weight,bold light regular semibold,Жирность
-transform,"originalcase uppercase lowercase ",Вид трансформации
-spacing,xs s m,Расстояние между буквами
-style,regular italic,Стиль шрифта
-type,blockquote h1 h2 h3 p,Тип

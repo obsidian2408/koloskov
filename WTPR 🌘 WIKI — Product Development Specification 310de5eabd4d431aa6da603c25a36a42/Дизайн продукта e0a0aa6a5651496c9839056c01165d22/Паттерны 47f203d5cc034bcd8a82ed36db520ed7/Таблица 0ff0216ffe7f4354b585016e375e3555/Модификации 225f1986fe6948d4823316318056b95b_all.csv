@@ -1,6 +1,0 @@
-﻿Название,Значение,Описание
-view,head,Оформление строки как шапки таблицы
-status,alert normal success warning,Статусная маркировка строки
-space-around,xs s m l,Отступы со всех сторон у вложенных элементов col
-space-horizontal,xs s m l,Отступы по горизонтали у вложенных элементов col
-space-vertical,xs s m l,Отступы по вертикали у вложенных элементов col

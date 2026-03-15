@@ -1,3 +1,0 @@
-# width
-
-Tags: max auto

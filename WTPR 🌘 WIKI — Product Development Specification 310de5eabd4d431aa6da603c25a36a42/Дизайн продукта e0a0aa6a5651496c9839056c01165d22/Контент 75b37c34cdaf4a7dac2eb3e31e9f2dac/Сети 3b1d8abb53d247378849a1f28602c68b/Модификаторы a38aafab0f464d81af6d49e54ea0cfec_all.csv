@@ -1,5 +1,0 @@
-﻿Название,Значения,Описание
-name,facebook twiter,Название  изображения
-size,m,Размер иконки
-view,ghost primary secondary  default,Цвет отображения иконки
-round,default alert success normal warning brand ghost primary,Цвет круглого фона
