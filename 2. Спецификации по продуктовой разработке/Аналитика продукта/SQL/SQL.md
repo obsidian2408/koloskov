@@ -1,4 +1,3 @@
-# SQL
 
 Примеры: https://github.com/productstar-team/sql_course
 
