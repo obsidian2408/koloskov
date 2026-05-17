@@ -1,0 +1,1 @@
+Я так понимаю горячей темы, чем Open Claw сейчас в принципе нет, поэтому вот свежее интервью https://youtu.be/4uzGDAoNOZc?si=8NwaZ4U00sBLnW1Y
