@@ -1,3 +1,7 @@
+---
+date: 2025-04-12
+---
+
 Лобопытный пост от Yango Ventures https://www.linkedin.com/posts/yango-ventures_exciting-news-our-first-investment-at-yango-activity-7315757068898963457-2ObE:
 
 Волнующие новости — наш первый инвестиционный проект в Yango Ventures!

@@ -1,3 +1,7 @@
+---
+date: 2021-05-01
+---
+
 
 **Banking Everywhere | Core Modules:**
 - Authorisation and Identification;

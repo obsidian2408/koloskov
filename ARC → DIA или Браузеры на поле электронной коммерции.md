@@ -1,3 +1,7 @@
+---
+date: 2025-05-28
+---
+
 
 Буквально вчера на Substack вышла публикация, в которой ребята из The Browser Company сообщают, что прекращают поддержку браузера Arc https://browsercompany.substack.com/p/letter-to-arc-members-2025 
 

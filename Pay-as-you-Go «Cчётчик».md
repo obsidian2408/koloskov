@@ -1,3 +1,7 @@
+---
+date: 2023-07-10
+---
+
 
 Раннее несколько раз упоминал модель Pay-as-you-Go https://t.me/bankfloorbelow/156
 

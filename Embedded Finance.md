@@ -1,3 +1,7 @@
+---
+date: 2021-11-19
+---
+
 
 What is it? (Part I) https://medium.com/redpoint-ventures/embedded-fintech-what-is-it-part-i-d49f3234ca20
 

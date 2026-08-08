@@ -1,3 +1,7 @@
+---
+date: 2022-07-25
+---
+
 
 Некоторое время назад делился мыслями на тему трех вариантов развития финтеха https://vc.ru/u/15222-mikhail-koloskov/269291-fokus-na-treh-variantah-razvitiya-finteha
 

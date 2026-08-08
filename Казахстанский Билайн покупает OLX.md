@@ -1,3 +1,7 @@
+---
+date: 2025-10-22
+---
+
 https://forbes.kz/articles/beeline-kupit-ploshadku-olx-kazahstan?ysclid=mh1mcg8sco456132341
 
 Некоторое время назад мобильный оператор показывал свои амбиции выйти на рынок карточных транзакций  https://t.me/bankfloorbelow/161 и в ранних интервью открыто делились своими планам https://t.me/bankfloorbelow/85

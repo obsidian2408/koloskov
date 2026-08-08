@@ -1,3 +1,7 @@
+---
+date: 2023-02-07
+---
+
 **Forwarded from [koloskov](https://t.me/bankfloorbelow/678)**
 
 ![[photo_3146415_193 - 20240830234452141.jpg]]

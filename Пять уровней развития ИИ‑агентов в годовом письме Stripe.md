@@ -1,3 +1,7 @@
+---
+date: 2026-03-15
+---
+
 
 https://assets.stripeassets.com/fzn2n1nzq965/3LlGw839Q6kUwxZlLZDtH6/75ddcbada4aa7743dd8ec7d0f9ca497e/Stripe-annual-letter-2025-desktop.pdf
 

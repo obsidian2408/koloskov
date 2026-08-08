@@ -1,3 +1,7 @@
+---
+date: 2021-05-14
+---
+
 
 Revolut решили трансформировать опыт покупок в онлайне и запустили приложение Shopper, которое представляет из себя браузерное расширение для Google Chrome https://m.youtube.com/watch?v=VFtesuuGd0c&feature=youtu.be 
 
